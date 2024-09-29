@@ -1,0 +1,9 @@
+.search {
+  width: 30%;
+  display: flex;
+}
+
+.header,
+.welcome {
+  text-align: center;
+}
